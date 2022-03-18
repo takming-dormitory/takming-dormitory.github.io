@@ -6408,7 +6408,7 @@ textarea.el-textarea__inner {
   height: 140px !important;
 }
 #page-header.full_page {
-  background-attachment: local !important;
+  background-attachment: local;
 }
 @font-face {
   font-family: 'sao-home';
