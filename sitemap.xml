@@ -2,24 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://takming-dormitory.github.io/issue/index.html</loc>
-    
-    <lastmod>2022-03-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://takming-dormitory.github.io/picture/index.html</loc>
-    
-    <lastmod>2022-03-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://takming-dormitory.github.io/pwa/manifest.json</loc>
     
     <lastmod>2022-03-30</lastmod>
@@ -39,6 +21,33 @@
   
   <url>
     <loc>https://takming-dormitory.github.io/timeline/index.html</loc>
+    
+    <lastmod>2022-03-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://takming-dormitory.github.io/issue/index.html</loc>
+    
+    <lastmod>2022-03-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://takming-dormitory.github.io/picture/index.html</loc>
+    
+    <lastmod>2022-03-30</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://takming-dormitory.github.io/events/index.html</loc>
     
     <lastmod>2022-03-30</lastmod>
     
@@ -83,276 +92,6 @@
   </url>
   
   <url>
-    <loc>https://takming-dormitory.github.io/events/index.html</loc>
-    
-    <lastmod>2022-03-30</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://takming-dormitory.github.io/post/%E6%96%B0%E5%A2%9E%E8%B3%87%E6%96%99%E5%A4%BE/a738/</loc>
-    
-    <lastmod>2022-03-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://takming-dormitory.github.io/post/%E6%96%B0%E5%A2%9E%E8%B3%87%E6%96%99%E5%A4%BE/a528/</loc>
-    
-    <lastmod>2022-02-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://takming-dormitory.github.io/post/%E6%96%B0%E5%A2%9E%E8%B3%87%E6%96%99%E5%A4%BE/a263/</loc>
-    
-    <lastmod>2022-02-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://takming-dormitory.github.io/post/%E6%96%B0%E5%A2%9E%E8%B3%87%E6%96%99%E5%A4%BE/a244/</loc>
-    
-    <lastmod>2022-02-26</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://takming-dormitory.github.io/post/%E6%96%B0%E5%A2%9E%E8%B3%87%E6%96%99%E5%A4%BE/a215/</loc>
-    
-    <lastmod>2022-02-25</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://takming-dormitory.github.io/post/%E6%96%B0%E5%A2%9E%E8%B3%87%E6%96%99%E5%A4%BE/a149/</loc>
-    
-    <lastmod>2022-02-24</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://takming-dormitory.github.io/post/%E6%96%B0%E5%A2%9E%E8%B3%87%E6%96%99%E5%A4%BE/a148/</loc>
-    
-    <lastmod>2022-02-23</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://takming-dormitory.github.io/post/%E6%96%B0%E5%A2%9E%E8%B3%87%E6%96%99%E5%A4%BE/a147/</loc>
-    
-    <lastmod>2022-02-22</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://takming-dormitory.github.io/post/%E6%96%B0%E5%A2%9E%E8%B3%87%E6%96%99%E5%A4%BE/a104/</loc>
-    
-    <lastmod>2022-02-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://takming-dormitory.github.io/post/%E6%96%B0%E5%A2%9E%E8%B3%87%E6%96%99%E5%A4%BE/a065/</loc>
-    
-    <lastmod>2022-02-20</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://takming-dormitory.github.io/post/%E6%96%B0%E5%A2%9E%E8%B3%87%E6%96%99%E5%A4%BE/a059/</loc>
-    
-    <lastmod>2022-02-19</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://takming-dormitory.github.io/post/%E6%96%B0%E5%A2%9E%E8%B3%87%E6%96%99%E5%A4%BE/a058/</loc>
-    
-    <lastmod>2022-02-18</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://takming-dormitory.github.io/post/%E6%96%B0%E5%A2%9E%E8%B3%87%E6%96%99%E5%A4%BE/a053/</loc>
-    
-    <lastmod>2022-02-17</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://takming-dormitory.github.io/post/%E6%96%B0%E5%A2%9E%E8%B3%87%E6%96%99%E5%A4%BE/a038/</loc>
-    
-    <lastmod>2022-02-16</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://takming-dormitory.github.io/post/%E6%96%B0%E5%A2%9E%E8%B3%87%E6%96%99%E5%A4%BE/a034/</loc>
-    
-    <lastmod>2022-02-15</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://takming-dormitory.github.io/post/%E6%96%B0%E5%A2%9E%E8%B3%87%E6%96%99%E5%A4%BE/a024/</loc>
-    
-    <lastmod>2022-02-14</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://takming-dormitory.github.io/post/%E6%96%B0%E5%A2%9E%E8%B3%87%E6%96%99%E5%A4%BE/a022/</loc>
-    
-    <lastmod>2022-02-13</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://takming-dormitory.github.io/post/%E6%96%B0%E5%A2%9E%E8%B3%87%E6%96%99%E5%A4%BE/a021/</loc>
-    
-    <lastmod>2022-02-12</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://takming-dormitory.github.io/post/%E6%96%B0%E5%A2%9E%E8%B3%87%E6%96%99%E5%A4%BE/a020/</loc>
-    
-    <lastmod>2022-02-11</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://takming-dormitory.github.io/post/%E6%96%B0%E5%A2%9E%E8%B3%87%E6%96%99%E5%A4%BE/a017/</loc>
-    
-    <lastmod>2022-02-10</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://takming-dormitory.github.io/post/%E6%96%B0%E5%A2%9E%E8%B3%87%E6%96%99%E5%A4%BE/a015/</loc>
-    
-    <lastmod>2022-02-09</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://takming-dormitory.github.io/post/%E6%96%B0%E5%A2%9E%E8%B3%87%E6%96%99%E5%A4%BE/a010/</loc>
-    
-    <lastmod>2022-02-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://takming-dormitory.github.io/post/%E6%96%B0%E5%A2%9E%E8%B3%87%E6%96%99%E5%A4%BE/a009/</loc>
-    
-    <lastmod>2022-02-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://takming-dormitory.github.io/post/%E6%96%B0%E5%A2%9E%E8%B3%87%E6%96%99%E5%A4%BE/a006/</loc>
-    
-    <lastmod>2022-02-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://takming-dormitory.github.io/post/%E6%96%B0%E5%A2%9E%E8%B3%87%E6%96%99%E5%A4%BE/a005/</loc>
-    
-    <lastmod>2022-02-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://takming-dormitory.github.io/post/%E6%96%B0%E5%A2%9E%E8%B3%87%E6%96%99%E5%A4%BE/a004/</loc>
-    
-    <lastmod>2022-02-03</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://takming-dormitory.github.io/post/%E6%96%B0%E5%A2%9E%E8%B3%87%E6%96%99%E5%A4%BE/a003/</loc>
-    
-    <lastmod>2022-02-02</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://takming-dormitory.github.io/post/%E6%96%B0%E5%A2%9E%E8%B3%87%E6%96%99%E5%A4%BE/a002/</loc>
-    
-    <lastmod>2022-02-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://takming-dormitory.github.io/post/%E6%96%B0%E5%A2%9E%E8%B3%87%E6%96%99%E5%A4%BE/a001/</loc>
-    
-    <lastmod>2022-02-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://takming-dormitory.github.io/post/test/</loc>
     
     <lastmod>2021-05-21</lastmod>
@@ -388,38 +127,10 @@
   </url>
 
   
-  <url>
-    <loc>https://takming-dormitory.github.io/tags/Python/</loc>
-    <lastmod>2022-03-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://takming-dormitory.github.io/tags/%E8%A7%A3%E9%A1%8C%E7%AD%94%E6%A1%88/</loc>
-    <lastmod>2022-03-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://takming-dormitory.github.io/tags/ZeroJudge/</loc>
-    <lastmod>2022-03-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
 
   
   <url>
     <loc>https://takming-dormitory.github.io/categories/%E5%AE%BF%E8%88%8D%E5%85%AC%E5%91%8A/</loc>
-    <lastmod>2022-03-30</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://takming-dormitory.github.io/categories/ZeroJudge/</loc>
     <lastmod>2022-03-30</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
