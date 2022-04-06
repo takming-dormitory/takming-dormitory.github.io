@@ -2,36 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://takming-dormitory.github.io/pwa/manifest.json</loc>
-    
-    <lastmod>2022-04-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://takming-dormitory.github.io/tags/index.html</loc>
-    
-    <lastmod>2022-04-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://takming-dormitory.github.io/timeline/index.html</loc>
-    
-    <lastmod>2022-04-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://takming-dormitory.github.io/issue/index.html</loc>
     
-    <lastmod>2022-04-05</lastmod>
+    <lastmod>2022-04-06</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -40,7 +13,34 @@
   <url>
     <loc>https://takming-dormitory.github.io/picture/index.html</loc>
     
-    <lastmod>2022-04-05</lastmod>
+    <lastmod>2022-04-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://takming-dormitory.github.io/pwa/manifest.json</loc>
+    
+    <lastmod>2022-04-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://takming-dormitory.github.io/tags/index.html</loc>
+    
+    <lastmod>2022-04-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://takming-dormitory.github.io/timeline/index.html</loc>
+    
+    <lastmod>2022-04-06</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -49,7 +49,7 @@
   <url>
     <loc>https://takming-dormitory.github.io/about/index.html</loc>
     
-    <lastmod>2022-04-05</lastmod>
+    <lastmod>2022-04-06</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -58,7 +58,7 @@
   <url>
     <loc>https://takming-dormitory.github.io/categories/index.html</loc>
     
-    <lastmod>2022-04-05</lastmod>
+    <lastmod>2022-04-06</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -67,7 +67,7 @@
   <url>
     <loc>https://takming-dormitory.github.io/convention/index.html</loc>
     
-    <lastmod>2022-04-05</lastmod>
+    <lastmod>2022-04-06</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -76,7 +76,7 @@
   <url>
     <loc>https://takming-dormitory.github.io/download/index.html</loc>
     
-    <lastmod>2022-04-05</lastmod>
+    <lastmod>2022-04-06</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -85,7 +85,7 @@
   <url>
     <loc>https://takming-dormitory.github.io/events/index.html</loc>
     
-    <lastmod>2022-04-05</lastmod>
+    <lastmod>2022-04-06</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -100,19 +100,10 @@
     <priority>0.6</priority>
   </url>
   
-  <url>
-    <loc>https://takming-dormitory.github.io/post/110-2%E6%97%A5%E9%96%93%E9%83%A8/%E9%80%B2%E4%BF%AE%E9%83%A8%E5%B0%B1%E5%AD%B8%E8%B2%B8%E6%AC%BE%E5%B0%8D%E4%BF%9D%E6%99%82%E9%96%93%E5%8F%8A%E6%B5%81%E7%A8%8B/</loc>
-    
-    <lastmod>2021-05-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
 
   <url>
     <loc>https://takming-dormitory.github.io/</loc>
-    <lastmod>2022-04-05</lastmod>
+    <lastmod>2022-04-06</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -122,14 +113,7 @@
   
   <url>
     <loc>https://takming-dormitory.github.io/categories/%E5%AE%BF%E8%88%8D%E6%B4%BB%E5%8B%95/</loc>
-    <lastmod>2022-04-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
-  
-  <url>
-    <loc>https://takming-dormitory.github.io/categories/%E5%AE%BF%E8%88%8D%E5%85%AC%E5%91%8A/</loc>
-    <lastmod>2022-04-05</lastmod>
+    <lastmod>2022-04-06</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
