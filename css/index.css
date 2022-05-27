@@ -11415,6 +11415,6 @@ div #card-toc {
   }
 }
 /*# sourceMappingURL=bootstrap.css.map */
-ol, ul {
-list-style: none;
+.img-wrap {
+    text-align: center;
 }
