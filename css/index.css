@@ -6364,7 +6364,7 @@ blockquote.pullquote.right {
 .blog-slider__item.swiper-slide-active .blog-slider__img img {
   object-position: 50% 8%;
 }
-#site-title {
+#site-info #site-title {
   display: none !important;
 }
 #pagination img {
