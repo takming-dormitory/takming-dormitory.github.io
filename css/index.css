@@ -6413,6 +6413,9 @@ textarea.el-textarea__inner {
   webkit-filter: none;
   filter: none;
 }
+div.issues-api .timenode .body p {
+  white-space: pre-line;
+}
 @font-face {
   font-family: 'sao-home';
   src: url("/fonts/Mam.otf");
