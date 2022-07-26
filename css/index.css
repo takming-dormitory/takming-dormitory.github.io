@@ -6542,6 +6542,11 @@ textarea.el-textarea__inner {
 div.issues-api .timenode .body p {
   white-space: pre-line;
 }
+.carousel .carousel-control-prev-icon,
+.carousel .carousel-control-next-icon {
+  -webkit-filter: invert(1) grayscale(100);
+  filter: invert(1) grayscale(100);
+}
 @font-face {
   font-family: 'sao-home';
   src: url("/fonts/Mam.otf");
