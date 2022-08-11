@@ -6569,6 +6569,9 @@ div.issues-api .timenode .body p {
   -webkit-order: 1;
   order: 1;
 }
+.dormitory-info li::marker {
+  color: #fa6e52;
+}
 @font-face {
   font-family: 'sao-home';
   src: url("/fonts/Mam.otf");
