@@ -138,17 +138,6 @@
     
     
     <entry>
-      <title>住宿問題</title>
-      <link href="/issue/index.html"/>
-      <url>/issue/index.html</url>
-      
-        <content type="html"><![CDATA[<div class="tip warning"> <!-- faa-horizontal animated faa-fast --><p>住宿的同學們,如有要使用桌上型電腦或筆記型電腦者,需要自備網路線,宿舍也有WI-FI,可以直接連線。</p></div><ul><li><a href="https://www.takming.edu.tw/livecoach/dorm/pdf/Q&amp;A.1.pdf">Q1.生活公約及訂定</a></li><li><a href="https://www.takming.edu.tw/livecoach/dorm/pdf/Q&amp;A.2.pdf">Q2.安全篇</a><!-- - [Q3.住宿費繳交 退學及就貸申辦](https://www.takming.edu.tw/livecoach/dorm/pdf/Q&A.3.pdf) --></li><li><a href="https://www.takming.edu.tw/livecoach/dorm/pdf/Q&amp;A.4.pdf">Q3.宿舍公共設施及修繕</a></li></ul><!-- - [Q5.寒暑假床位申請](https://www.takming.edu.tw/livecoach/dorm/pdf/Q&A.5.pdf) -->]]></content>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>花絮</title>
       <link href="/picture/index.html"/>
       <url>/picture/index.html</url>
@@ -187,6 +176,17 @@
       <url>/timeline/index.html</url>
       
         <content type="html"><![CDATA[<div class="issues-api timeline"api="https://api.github.com/repos/sao-coding/dormitory-website-update-history/issues?state=open&creator=sao-coding&sort=created&direction=desc"></div>]]></content>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>住宿問題</title>
+      <link href="/issue/index.html"/>
+      <url>/issue/index.html</url>
+      
+        <content type="html"><![CDATA[<div class="tip warning"> <!-- faa-horizontal animated faa-fast --><p>住宿的同學們,如有要使用桌上型電腦或筆記型電腦者,需要自備網路線,宿舍也有WI-FI,可以直接連線。</p></div><ul><li><a href="https://www.takming.edu.tw/livecoach/dorm/pdf/Q&amp;A.1.pdf">Q1.生活公約及訂定</a></li><li><a href="https://www.takming.edu.tw/livecoach/dorm/pdf/Q&amp;A.2.pdf">Q2.安全篇</a><!-- - [Q3.住宿費繳交 退學及就貸申辦](https://www.takming.edu.tw/livecoach/dorm/pdf/Q&A.3.pdf) --></li><li><a href="https://www.takming.edu.tw/livecoach/dorm/pdf/Q&amp;A.4.pdf">Q3.宿舍公共設施及修繕</a></li></ul><!-- - [Q5.寒暑假床位申請](https://www.takming.edu.tw/livecoach/dorm/pdf/Q&A.5.pdf) -->]]></content>
       
     </entry>
     
