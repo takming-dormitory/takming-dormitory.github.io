@@ -6572,6 +6572,71 @@ div.issues-api .timenode .body p {
 .dormitory-info li::marker {
   color: #fa6e52;
 }
+.foot_content {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: box;
+  display: flex;
+  -webkit-box-align: center;
+  -moz-box-align: center;
+  -o-box-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+}
+.foot_content .content {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: box;
+  display: flex;
+  -webkit-box-align: center;
+  -moz-box-align: center;
+  -o-box-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+}
+.Client-group {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: box;
+  display: flex;
+  -webkit-box-lines: multiple;
+  -moz-box-lines: multiple;
+  -o-box-lines: multiple;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+.Client-group-item {
+  list-style: none;
+  background-color: #f8aa76;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+}
+.Client-group-item:hover {
+  background-color: rgba(248,170,118,0.5);
+}
+@media screen and (max-width: 979px) {
+  .foot_content {
+    -webkit-box-lines: multiple;
+    -moz-box-lines: multiple;
+    -o-box-lines: multiple;
+    -webkit-flex-wrap: wrap;
+    -ms-flex-wrap: wrap;
+    flex-wrap: wrap;
+  }
+  .foot_content .content {
+    margin: 0 auto !important;
+  }
+}
 @font-face {
   font-family: 'sao-home';
   src: url("/fonts/Mam.otf");
