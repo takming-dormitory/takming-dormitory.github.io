@@ -6477,14 +6477,21 @@ blockquote.pullquote.right {
   color: #fff;
   background-color: #fa6e52;
 }
-#article-container a.headerlink:after {
+#article-container.post-content .headerlink {
+  float: right;
+  font-size: 90%;
+  padding-top: 4px;
+}
+#article-container.post-content .headerlink::before {
   content: '\f292';
+  font-family: 'Font Awesome 6 Free';
 }
 #aside-content #card-toc .toc-content .toc-link {
   border-left: 3px solid transparent;
 }
 #aside-content #card-toc .toc-content .toc-link.active {
   border-left-color: #f57749;
+  border-radius: var(--border-radius);
 }
 .imgHover,
 .article-sort-item-img img,
