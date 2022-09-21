@@ -11644,3 +11644,255 @@ div #card-toc {
 .img-wrap {
     text-align: center;
 }
+:root {
+	--main: #ffb08a;
+	--second: #FFF;
+	--main-light: rgba(73, 177, 245, 0.4);
+	--main-shadow: 0 2px 3px 1px rgba(73, 177, 245, 0.2);
+	--cover-text: #EEE;
+	--cover-bg: #49B1F5;
+  --card-border: #f5cb87;
+  --card-border-hover: #fc9c00;
+  --border-radius: 8px;
+}
+[data-theme="dark"] {
+	--main: #5C5C5C  !important;
+	--second: #EEE  !important;
+	--main-light: rgba(92, 92, 92, 0.4)  !important;
+	--main-shadow: 0 2px 3px 1px rgba(92, 92, 92, 0.2)  !important;
+}
+/* Twikoo */
+.comment-head {
+  position: relative;
+}
+
+.comment-protocol {
+  position: absolute;
+  top: 0;
+  right: 0;
+  display: inline-block;
+  font-weight: 700;
+  font-size: 1.43em;
+}
+
+.el-textarea__inner {
+  min-height: 100px !important;
+}
+
+.OwO .OwO-body {
+  color: var(--font-color) !important;
+  background: var(--card-bg) !important;
+}
+
+.OwO.OwO-open .OwO-body {
+  border-radius: var(--border-radius);
+}
+
+.OwO .OwO-body .OwO-bar .OwO-packages li {
+  min-width: 55px;
+  text-align: center;
+  line-height: 45px !important;
+  font-size: 20px !important;
+  border-bottom: solid 2px var(--main);
+}
+
+.OwO .OwO-body .OwO-bar .OwO-packages li span {
+  position: relative;
+}
+
+.OwO .OwO-body .OwO-bar .OwO-packages li span img {
+  position: relative;
+  top: 8px;
+  width: 30px;
+}
+
+.OwO .OwO-body .OwO-items .OwO-item:hover {
+  color: var(--card-bg) !important;
+  background: var(--font-color) !important;
+  -webkit-transform: scale(1.20);
+  -moz-transform: scale(1.20);
+  -o-transform: scale(1.20);
+  -ms-transform: scale(1.20);
+  transform: scale(1.20);
+}
+
+.OwO .OwO-body .OwO-bar .OwO-packages .OwO-package-active {
+  color: var(--card-bg) !important;
+  background: var(--font-color) !important;
+}
+
+.tk-content :not(pre)>code[class*="language-"],
+.tk-content pre[class*="language-"] {
+  border-radius: var(--border-radius);
+}
+
+.tk-nick,
+.tk-nick-link,
+.tk-nick-link strong,
+.tk-action-count {
+  color: var(--cover-bg) !important;
+  font-size: var(--global-font-size);
+}
+
+.tk-action-icon svg {
+  fill: var(--cover-bg) !important;
+}
+
+.tk-comments-container {
+  min-height: 0 !important;
+}
+
+.tk-avatar {
+  width: 3rem !important;
+  height: 3rem !important;
+  margin-top: .5rem;
+}
+
+.tk-avatar img {
+  width: 3rem !important;
+  height: 3rem !important;
+}
+
+.tk-master .tk-avatar {
+  position: relative;
+  left: calc(100% - 3rem);
+}
+
+.tk-comment {
+  margin-top: 0 !important;
+}
+
+.tk-content img {
+  max-width: 100% !important;
+}
+
+.tk-content p,
+.tk-content pre {
+  margin: 0;
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
+
+.tk-content a:not([data-fancybox="gallery"]) {
+  color: var(--second);
+  border-bottom: solid 2px var(--second);
+  padding: 0 .2rem;
+}
+
+.tk-content a:not([data-fancybox="gallery"]):hover {
+  color: var(--main);
+  background: var(--second);
+  border-radius: 4px;
+}
+
+.tk-master .tk-content a:not([data-fancybox="gallery"]) {
+  color: var(--font-color);
+  border-bottom: solid 2px var(--main);
+  padding: 0 .2rem;
+}
+
+.tk-master .tk-content a:not([data-fancybox="gallery"]):hover {
+  color: var(--second);
+  background: var(--main);
+  border-radius: 4px;
+}
+
+/* 评论块气泡化修改 */
+.tk-comments-container>.tk-comment {
+  border: var(--card-border);
+  border-width: 2px;
+  border-style: dashed;
+  border-radius: var(--border-radius);
+  padding: 0 .5rem .5rem .5rem;
+  -webkit-transition: all .3s;
+  -moz-transition: all .3s;
+  -o-transition: all .3s;
+  -ms-transition: all .3s;
+  transition: all .3s;
+  margin: 1rem 0;
+}
+
+.tk-comments-container>.tk-comment:hover {
+  border-color: var(--card-border-hover);
+}
+
+.tk-content {
+  color: var(--second);
+  background: var(--main);
+  padding: .5rem 1rem;
+  margin-top: 0 !important;
+  border-radius: var(--border-radius);
+  font-size: 95% !important;
+  width: fit-content;
+  max-width: 80%;
+  position: relative !important;
+  overflow: visible !important;
+  max-height: none !important;
+}
+
+.tk-master .tk-content {
+  color: var(--font-color);
+  background: var(--global-bg);
+}
+
+.tk-content::before {
+  content: '';
+  width: 0;
+  height: 0;
+  position: absolute;
+  top: 10px;
+  left: -15px;
+  border-top: 0px solid transparent;
+  border-bottom: 25px solid transparent;
+  border-left: 0 solid transparent;
+  border-right: 15px solid var(--main);
+}
+
+.tk-master .tk-content::before {
+  left: 100%;
+  border-left: 15px solid var(--global-bg);
+  border-right: 0 solid transparent;
+}
+
+.tk-master .tk-content {
+  margin: 0 4rem 0 auto;
+}
+
+.tk-main .tk-row {
+  width: fit-content;
+}
+
+.tk-master .tk-extras {
+  margin: 0 3.5rem 0 auto;
+  width: fit-content;
+  position: relative;
+}
+
+.tk-master .tk-row {
+  margin: 0 4rem 0 auto;
+}
+
+/* 设备名称常态隐藏，悬停评论时显示 */
+/* .tk-extras {
+	opacity: 0;
+	-webkit-transition: all .3s;
+	-moz-transition: all .3s;
+	-o-transition: all .3s;
+	-ms-transition: all .3s;
+	transition: all .3s;
+}
+
+.tk-content:hover + .tk-extras {
+	opacity: 1;
+} */
+
+.tk-expand {
+  width: 40% !important;
+  margin: .5rem auto 0;
+  background: var(--global-bg) !important;
+  border-radius: var(--border-radius);
+}
+
+.tk-expand:hover {
+  width: 60% !important;
+}
