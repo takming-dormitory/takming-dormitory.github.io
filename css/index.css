@@ -6453,6 +6453,69 @@ blockquote.pullquote.right {
   color: #fff;
   cursor: pointer;
 }
+#recent-posts > .recent-post-item {
+  background: rgba(255,255,255,0.5);
+}
+.card-widget {
+  background: rgba(255,255,255,0.5) !important;
+}
+div#post {
+  background: rgba(255,255,255,0.5);
+}
+div#page {
+  background: rgba(255,255,255,0.5);
+}
+div#archive {
+  background: rgba(255,255,255,0.5);
+}
+div#tag {
+  background: rgba(255,255,255,0.5);
+}
+div#category {
+  background: rgba(255,255,255,0.5);
+}
+[data-theme="dark"] div#runtime {
+  color: #28b4c8;
+  -webkit-box-shadow: 0 0 5px rgba(28,69,218,0.71);
+  box-shadow: 0 0 5px rgba(28,69,218,0.71);
+  -webkit-animation: flashlight 1s linear infinite alternate;
+  -moz-animation: flashlight 1s linear infinite alternate;
+  -o-animation: flashlight 1s linear infinite alternate;
+  -ms-animation: flashlight 1s linear infinite alternate;
+  animation: flashlight 1s linear infinite alternate;
+}
+[data-theme="dark"] #recent-posts > .recent-post-item {
+  background: rgba(35,35,35,0.5);
+}
+[data-theme="dark"] div.card-widget {
+  background: rgba(35,35,35,0.5) !important;
+}
+[data-theme="dark"] div#post {
+  background: rgba(35,35,35,0.5);
+}
+[data-theme="dark"] div#page {
+  background: rgba(35,35,35,0.5);
+}
+[data-theme="dark"] div#archive {
+  background: rgba(35,35,35,0.5);
+}
+[data-theme="dark"] div#tag {
+  background: rgba(35,35,35,0.5);
+}
+[data-theme="dark"] div#category {
+  background: rgba(35,35,35,0.5);
+}
+[data-theme="dark"] #footer::before {
+  background: transparent !important;
+}
+[data-theme="dark"] #page-header::before {
+  background: transparent !important;
+}
+@media screen and (max-width: 900px) {
+  [data-theme="dark"] #card-toc {
+    background: rgba(35,35,35,0.9) !important;
+  }
+}
 ::-webkit-scrollbar {
   width: 8px;
   height: 8px;
@@ -6544,6 +6607,7 @@ textarea.el-textarea__inner {
 }
 #recent-posts > .recent-post-item {
   height: 10em;
+  position: relative;
 }
 @media screen and (max-width: 768px) {
   #recent-posts > .recent-post-item {
@@ -6654,6 +6718,76 @@ div.issues-api .timenode .body p {
   color: var(--main);
   border-bottom: solid 2px var(--main);
   padding: 0 0.2em;
+}
+.newPost {
+  position: absolute;
+  top: 0;
+  color: rgba(255,255,255,0.92);
+  padding: 0 15px;
+  background-color: #ff7242;
+  border-radius: 0 0 10px 10px;
+  right: 1rem;
+}
+@media screen and (max-width: 600px) {
+  .newPost {
+    right: 0px;
+    padding: 0 12px;
+    border-radius: 0px 10px 0px 10px;
+  }
+}
+#recent-posts>.recent-post-item .post-meta-date+span {
+  -webkit-transition: 0.3s ease-in-out;
+  -moz-transition: 0.3s ease-in-out;
+  -o-transition: 0.3s ease-in-out;
+  -ms-transition: 0.3s ease-in-out;
+  transition: 0.3s ease-in-out;
+  position: absolute;
+  padding: 0 5px;
+  bottom: 1rem;
+  right: 1rem;
+  border-radius: 5px;
+  background: rgba(0,0,0,0.2);
+  backdrop-filter: saturate(180%) blur(20px);
+}
+@media screen and (max-width: 600px) {
+  #recent-posts>.recent-post-item .post-meta-date+span {
+    -webkit-transition: 0.3s ease-in-out;
+    -moz-transition: 0.3s ease-in-out;
+    -o-transition: 0.3s ease-in-out;
+    -ms-transition: 0.3s ease-in-out;
+    transition: 0.3s ease-in-out;
+    position: absolute;
+    padding: 0 5px;
+    bottom: 0rem;
+    right: 0rem;
+    border-radius: 10px 0px 10px 0px;
+    background: rgba(0,0,0,0.2);
+    backdrop-filter: saturate(180%) blur(20px);
+  }
+}
+#aside-content .card-widget,
+#bber-talk,
+#container,
+#post .post-copyright,
+#recent-posts>.recent-post-item,
+#sta_chart,
+#statistic .item,
+.cardHover,
+.error404 #error-wrap .error-content,
+.layout>div:first-child:not(.recent-posts),
+.search-dialog {
+  border-radius: 12px;
+  -webkit-box-shadow: 0 8px 15px -5px rgba(44,45,48,0.047);
+  box-shadow: 0 8px 15px -5px rgba(44,45,48,0.047);
+  border: 1px solid rgba(211,211,211,0.8);
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-transition: all 0.3s ease-in-out;
+  -moz-transition: all 0.3s ease-in-out;
+  -o-transition: all 0.3s ease-in-out;
+  -ms-transition: all 0.3s ease-in-out;
+  transition: all 0.3s ease-in-out;
 }
 @font-face {
   font-family: 'sao-home';
