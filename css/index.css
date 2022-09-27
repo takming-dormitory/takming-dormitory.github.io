@@ -6789,6 +6789,12 @@ div.issues-api .timenode .body p {
   -ms-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
 }
+[data-theme="dark"] #footer {
+  background: rgba(35,35,35,0.5);
+}
+[data-theme="dark"] .Client-group-item {
+  background-color: rgba(35,35,35,0.6);
+}
 @font-face {
   font-family: 'sao-home';
   src: url("/fonts/Mam.otf");
