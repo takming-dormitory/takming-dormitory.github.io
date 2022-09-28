@@ -6768,6 +6768,13 @@ div.issues-api .timenode .body p {
 [data-theme="dark"] #recent-posts>.recent-post-item .post-meta-date+span {
   background: rgba(200,0,0,0.2);
 }
+#recent-posts > .recent-post-item .article-meta .article-meta__categories:hover {
+  color: #858585 !important;
+  text-decoration: none !important;
+}
+#recent-posts>.recent-post-item .post-meta-date+span:hover {
+  background: rgba(200,0,0,0.8);
+}
 #aside-content .card-widget,
 #bber-talk,
 #container,
@@ -6797,6 +6804,21 @@ div.issues-api .timenode .body p {
 }
 [data-theme="dark"] .Client-group-item {
   background-color: rgba(35,35,35,0.6);
+}
+#recent-posts>.recent-post-item .sticky {
+  display: none;
+}
+#recent-posts>.recent-post-item .fas.fa-thumbtack.sticky {
+  display: inline-block;
+  position: absolute;
+  top: 0.5rem;
+  left: 0.5rem;
+  background-color: rgba(252,179,179,0.8);
+  padding: 0.5rem;
+  border-radius: 10px;
+}
+[data-theme="dark"] #recent-posts>.recent-post-item .fas.fa-thumbtack.sticky {
+  background-color: rgba(200,0,0,0.2);
 }
 @font-face {
   font-family: 'sao-home';
