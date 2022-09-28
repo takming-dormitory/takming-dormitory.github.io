@@ -6765,6 +6765,9 @@ div.issues-api .timenode .body p {
     backdrop-filter: saturate(180%) blur(20px);
   }
 }
+[data-theme="dark"] #recent-posts>.recent-post-item .post-meta-date+span {
+  background: rgba(200,0,0,0.2);
+}
 #aside-content .card-widget,
 #bber-talk,
 #container,
