@@ -12167,7 +12167,7 @@ div #card-toc {
 
 .tk-master .tk-content {
   color: var(--font-color);
-  background: var(--global-bg);
+  background: #e3e3e3;
 }
 
 .tk-content::before {
