@@ -12169,6 +12169,9 @@ div #card-toc {
   color: var(--font-color);
   background: #e3e3e3;
 }
+[data-theme="dark"] .tk-content {
+  background: var(--global-bg);
+}
 
 .tk-content::before {
   content: '';
