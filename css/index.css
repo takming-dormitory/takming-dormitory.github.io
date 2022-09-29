@@ -12188,8 +12188,12 @@ div #card-toc {
 
 .tk-master .tk-content::before {
   left: 100%;
-  border-left: 15px solid var(--global-bg);
+  border-left: 15px solid #e3e3e3;
   border-right: 0 solid transparent;
+}
+[data-theme="dark"].tk-master .tk-content::before {
+  left: 100%;
+  border-left: 15px solid var(--global-bg);
 }
 
 .tk-master .tk-content {
