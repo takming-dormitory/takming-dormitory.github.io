@@ -12169,7 +12169,7 @@ div #card-toc {
   color: var(--font-color);
   background: #e3e3e3;
 }
-[data-theme="dark"] .tk-content {
+[data-theme="dark"] .tk-master .tk-content {
   background: var(--global-bg);
 }
 
@@ -12191,7 +12191,7 @@ div #card-toc {
   border-left: 15px solid #e3e3e3;
   border-right: 0 solid transparent;
 }
-[data-theme="dark"].tk-master .tk-content::before {
+[data-theme="dark"] .tk-master .tk-content::before {
   left: 100%;
   border-left: 15px solid var(--global-bg);
 }
