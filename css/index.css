@@ -6719,7 +6719,7 @@ div.issues-api .timenode .body p {
   border-bottom: solid 2px var(--main);
   padding: 0 0.2em;
 }
-.newPost {
+.newEvent {
   position: absolute;
   top: 0;
   color: rgba(255,255,255,0.92);
@@ -6729,7 +6729,23 @@ div.issues-api .timenode .body p {
   right: 1rem;
 }
 @media screen and (max-width: 600px) {
-  .newPost {
+  .newEvent {
+    right: 0px;
+    padding: 0 12px;
+    border-radius: 0px 10px 0px 10px;
+  }
+}
+.endEvent {
+  position: absolute;
+  top: 0;
+  color: rgba(255,255,255,0.92);
+  padding: 0 15px;
+  background-color: #9442ff;
+  border-radius: 0 0 10px 10px;
+  right: 1rem;
+}
+@media screen and (max-width: 600px) {
+  .endEvent {
     right: 0px;
     padding: 0 12px;
     border-radius: 0px 10px 0px 10px;
