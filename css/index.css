@@ -6836,6 +6836,14 @@ div.issues-api .timenode .body p {
 [data-theme="dark"] #recent-posts>.recent-post-item .fas.fa-thumbtack.sticky {
   background-color: rgba(200,0,0,0.2);
 }
+@media screen and (max-width: 600px) {
+  #recent-posts>.recent-post-item .fas.fa-thumbtack.sticky {
+    top: 0rem;
+    left: 0rem;
+    padding: 0.5rem;
+    border-radius: 10px 0px 10px 0px;
+  }
+}
 @font-face {
   font-family: 'sao-home';
   src: url("/fonts/Mam.otf");
