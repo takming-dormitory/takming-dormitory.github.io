@@ -6833,6 +6833,9 @@ div.issues-api .timenode .body p {
   padding: 0.5rem;
   border-radius: 10px;
 }
+.sticky+.article-meta-separator {
+  display: none;
+}
 [data-theme="dark"] #recent-posts>.recent-post-item .fas.fa-thumbtack.sticky {
   background-color: rgba(200,0,0,0.2);
 }
