@@ -6577,11 +6577,11 @@ div#category {
 .aside-list img {
   object-position: 50% 8%;
 }
-#article-container figure.gallery-group {
+#article-container .gallery-group-main.trivia figure.gallery-group {
   width: calc(33% - 7px);
 }
 @media screen and (max-width: 600px) {
-  #article-container figure.gallery-group {
+  #article-container .gallery-group-main.trivia figure.gallery-group {
     width: calc(100% - 8px);
   }
 }
