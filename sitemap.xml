@@ -2,24 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://takming-dormitory.github.io/issue/index.html</loc>
-    
-    <lastmod>2022-11-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://takming-dormitory.github.io/picture/index.html</loc>
-    
-    <lastmod>2022-11-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://takming-dormitory.github.io/pwa/manifest.json</loc>
     
     <lastmod>2022-11-21</lastmod>
@@ -39,6 +21,24 @@
   
   <url>
     <loc>https://takming-dormitory.github.io/timeline/index.html</loc>
+    
+    <lastmod>2022-11-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://takming-dormitory.github.io/issue/index.html</loc>
+    
+    <lastmod>2022-11-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://takming-dormitory.github.io/picture/index.html</loc>
     
     <lastmod>2022-11-21</lastmod>
     
@@ -83,6 +83,15 @@
   </url>
   
   <url>
+    <loc>https://takming-dormitory.github.io/about/index.html</loc>
+    
+    <lastmod>2022-11-21</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://takming-dormitory.github.io/categories/index.html</loc>
     
     <lastmod>2022-11-21</lastmod>
@@ -119,9 +128,18 @@
   </url>
   
   <url>
-    <loc>https://takming-dormitory.github.io/about/index.html</loc>
+    <loc>https://takming-dormitory.github.io/post/111-1%E9%98%B2%E6%B2%BB%E6%A0%A1%E5%9C%92%E9%9C%B8%E5%87%8C%E5%B0%88%E9%A1%8C%E8%AC%9B%E5%BA%A7/</loc>
     
-    <lastmod>2022-11-21</lastmod>
+    <lastmod>2022-10-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://takming-dormitory.github.io/post/111%20%E4%BA%BA%E7%94%9F%E5%BE%88%E9%9B%A3%E4%B8%8D%E8%83%BD%E5%9C%A8%E6%87%B6/</loc>
+    
+    <lastmod>2022-10-01</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
