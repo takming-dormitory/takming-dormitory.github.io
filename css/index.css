@@ -6711,14 +6711,12 @@ div.issues-api .timenode .body p {
     margin: 0 auto !important;
   }
 }
-.timeline-item-content a:not([data-fancybox=gallery]):hover {
-  color: var(--main);
+#page a:not([data-fancybox=gallery]):hover {
   background: var(--main);
   border-radius: 0.25em;
   text-decoration: none !important;
 }
-.timeline-item-content a:not([data-fancybox=gallery]) {
-  color: var(--main);
+#page a:not([data-fancybox=gallery]) {
   border-bottom: solid 2px var(--main);
   padding: 0 0.2em;
 }
