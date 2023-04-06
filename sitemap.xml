@@ -2,24 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://takming-dormitory.github.io/tags/index.html</loc>
-    
-    <lastmod>2023-04-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://takming-dormitory.github.io/timeline/index.html</loc>
-    
-    <lastmod>2023-04-06</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://takming-dormitory.github.io/issue/index.html</loc>
     
     <lastmod>2023-04-06</lastmod>
@@ -39,6 +21,24 @@
   
   <url>
     <loc>https://takming-dormitory.github.io/pwa/manifest.json</loc>
+    
+    <lastmod>2023-04-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://takming-dormitory.github.io/tags/index.html</loc>
+    
+    <lastmod>2023-04-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://takming-dormitory.github.io/timeline/index.html</loc>
     
     <lastmod>2023-04-06</lastmod>
     
@@ -122,6 +122,15 @@
     <loc>https://takming-dormitory.github.io/events/index.html</loc>
     
     <lastmod>2023-04-06</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://takming-dormitory.github.io/post/girl/</loc>
+    
+    <lastmod>2023-04-05</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -221,15 +230,6 @@
     <loc>https://takming-dormitory.github.io/post/110-2%E7%AB%AF%E5%8D%88%E7%AF%80/</loc>
     
     <lastmod>2022-06-01</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://takming-dormitory.github.io/post/girl/</loc>
-    
-    <lastmod>2022-04-05</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
