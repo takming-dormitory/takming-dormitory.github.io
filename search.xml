@@ -532,22 +532,22 @@
     
     
     <entry>
-      <title>標籤</title>
-      <link href="/tags/index.html"/>
-      <url>/tags/index.html</url>
+      <title>更新紀錄</title>
+      <link href="/timeline/index.html"/>
+      <url>/timeline/index.html</url>
       
-        <content type="html"><![CDATA[]]></content>
+        <content type="html"><![CDATA[<div class="issues-api timeline"api="https://api.github.com/repos/sao-coding/dormitory-website-update-history/issues?state=open&creator=sao-coding&sort=created&direction=desc"></div>]]></content>
       
     </entry>
     
     
     
     <entry>
-      <title>更新紀錄</title>
-      <link href="/timeline/index.html"/>
-      <url>/timeline/index.html</url>
+      <title>標籤</title>
+      <link href="/tags/index.html"/>
+      <url>/tags/index.html</url>
       
-        <content type="html"><![CDATA[<div class="issues-api timeline"api="https://api.github.com/repos/sao-coding/dormitory-website-update-history/issues?state=open&creator=sao-coding&sort=created&direction=desc"></div>]]></content>
+        <content type="html"><![CDATA[]]></content>
       
     </entry>
     
