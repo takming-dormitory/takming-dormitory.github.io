@@ -38,24 +38,6 @@
   </url>
   
   <url>
-    <loc>https://takming-dormitory.github.io/picture/%E4%BD%8F%E5%AE%BF%E5%A4%9C%E8%AB%87/index.html</loc>
-    
-    <lastmod>2023-10-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://takming-dormitory.github.io/picture/%E6%96%B0%E7%94%9F%E8%BF%8E%E6%96%B0/index.html</loc>
-    
-    <lastmod>2023-10-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://takming-dormitory.github.io/picture/110/9/index.html</loc>
     
     <lastmod>2023-10-27</lastmod>
@@ -83,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://takming-dormitory.github.io/picture/111/4/index.html</loc>
+    <loc>https://takming-dormitory.github.io/picture/111/3/index.html</loc>
     
     <lastmod>2023-10-27</lastmod>
     
@@ -92,7 +74,7 @@
   </url>
   
   <url>
-    <loc>https://takming-dormitory.github.io/picture/111/3/index.html</loc>
+    <loc>https://takming-dormitory.github.io/picture/111/4/index.html</loc>
     
     <lastmod>2023-10-27</lastmod>
     
@@ -128,6 +110,24 @@
   </url>
   
   <url>
+    <loc>https://takming-dormitory.github.io/picture/112/%E4%BD%8F%E5%AE%BF%E5%A4%9C%E8%AB%87/index.html</loc>
+    
+    <lastmod>2023-10-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://takming-dormitory.github.io/picture/112/%E6%96%B0%E7%94%9F%E8%BF%8E%E6%96%B0/index.html</loc>
+    
+    <lastmod>2023-10-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://takming-dormitory.github.io/about/index.html</loc>
     
     <lastmod>2023-10-27</lastmod>
@@ -146,7 +146,7 @@
   </url>
   
   <url>
-    <loc>https://takming-dormitory.github.io/download/index.html</loc>
+    <loc>https://takming-dormitory.github.io/convention/index.html</loc>
     
     <lastmod>2023-10-27</lastmod>
     
@@ -155,7 +155,7 @@
   </url>
   
   <url>
-    <loc>https://takming-dormitory.github.io/convention/index.html</loc>
+    <loc>https://takming-dormitory.github.io/download/index.html</loc>
     
     <lastmod>2023-10-27</lastmod>
     
@@ -391,14 +391,14 @@
 
   
   <url>
-    <loc>https://takming-dormitory.github.io/categories/%E5%AE%BF%E8%88%8D%E6%B4%BB%E5%8B%95/</loc>
+    <loc>https://takming-dormitory.github.io/categories/%E5%AE%BF%E8%88%8D%E5%85%AC%E5%91%8A/</loc>
     <lastmod>2023-10-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
-    <loc>https://takming-dormitory.github.io/categories/%E5%AE%BF%E8%88%8D%E5%85%AC%E5%91%8A/</loc>
+    <loc>https://takming-dormitory.github.io/categories/%E5%AE%BF%E8%88%8D%E6%B4%BB%E5%8B%95/</loc>
     <lastmod>2023-10-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
