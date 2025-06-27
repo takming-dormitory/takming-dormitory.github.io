@@ -20,6 +20,15 @@
   </url>
   
   <url>
+    <loc>https://takming-dormitory.github.io/picture/index.html</loc>
+    
+    <lastmod>2025-06-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://takming-dormitory.github.io/pwa/manifest.json</loc>
     
     <lastmod>2025-06-27</lastmod>
@@ -29,7 +38,43 @@
   </url>
   
   <url>
-    <loc>https://takming-dormitory.github.io/picture/index.html</loc>
+    <loc>https://takming-dormitory.github.io/picture/113/7/index.html</loc>
+    
+    <lastmod>2025-06-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://takming-dormitory.github.io/picture/111/3/index.html</loc>
+    
+    <lastmod>2025-06-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://takming-dormitory.github.io/picture/111/4/index.html</loc>
+    
+    <lastmod>2025-06-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://takming-dormitory.github.io/picture/111/5/index.html</loc>
+    
+    <lastmod>2025-06-27</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://takming-dormitory.github.io/picture/111/6/index.html</loc>
     
     <lastmod>2025-06-27</lastmod>
     
@@ -119,15 +164,6 @@
   </url>
   
   <url>
-    <loc>https://takming-dormitory.github.io/picture/113/5/index.html</loc>
-    
-    <lastmod>2025-06-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://takming-dormitory.github.io/picture/113/4/index.html</loc>
     
     <lastmod>2025-06-27</lastmod>
@@ -137,7 +173,7 @@
   </url>
   
   <url>
-    <loc>https://takming-dormitory.github.io/picture/113/6/index.html</loc>
+    <loc>https://takming-dormitory.github.io/picture/113/5/index.html</loc>
     
     <lastmod>2025-06-27</lastmod>
     
@@ -146,7 +182,7 @@
   </url>
   
   <url>
-    <loc>https://takming-dormitory.github.io/picture/113/7/index.html</loc>
+    <loc>https://takming-dormitory.github.io/picture/113/6/index.html</loc>
     
     <lastmod>2025-06-27</lastmod>
     
@@ -191,7 +227,7 @@
   </url>
   
   <url>
-    <loc>https://takming-dormitory.github.io/picture/111/3/index.html</loc>
+    <loc>https://takming-dormitory.github.io/events/index.html</loc>
     
     <lastmod>2025-06-27</lastmod>
     
@@ -200,25 +236,7 @@
   </url>
   
   <url>
-    <loc>https://takming-dormitory.github.io/picture/111/5/index.html</loc>
-    
-    <lastmod>2025-06-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://takming-dormitory.github.io/picture/111/4/index.html</loc>
-    
-    <lastmod>2025-06-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://takming-dormitory.github.io/picture/111/6/index.html</loc>
+    <loc>https://takming-dormitory.github.io/about/index.html</loc>
     
     <lastmod>2025-06-27</lastmod>
     
@@ -246,24 +264,6 @@
   
   <url>
     <loc>https://takming-dormitory.github.io/download/index.html</loc>
-    
-    <lastmod>2025-06-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://takming-dormitory.github.io/about/index.html</loc>
-    
-    <lastmod>2025-06-27</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://takming-dormitory.github.io/events/index.html</loc>
     
     <lastmod>2025-06-27</lastmod>
     
