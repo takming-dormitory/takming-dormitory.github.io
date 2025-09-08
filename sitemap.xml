@@ -2,15 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://takming-dormitory.github.io/pwa/manifest.json</loc>
-    
-    <lastmod>2025-09-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://takming-dormitory.github.io/tags/index.html</loc>
     
     <lastmod>2025-09-08</lastmod>
@@ -38,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://takming-dormitory.github.io/picture/113/6/index.html</loc>
+    <loc>https://takming-dormitory.github.io/pwa/manifest.json</loc>
     
     <lastmod>2025-09-08</lastmod>
     
@@ -66,15 +57,6 @@
   
   <url>
     <loc>https://takming-dormitory.github.io/picture/114/1/index.html</loc>
-    
-    <lastmod>2025-09-08</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://takming-dormitory.github.io/picture/111/2/index.html</loc>
     
     <lastmod>2025-09-08</lastmod>
     
@@ -218,6 +200,15 @@
   </url>
   
   <url>
+    <loc>https://takming-dormitory.github.io/picture/113/6/index.html</loc>
+    
+    <lastmod>2025-09-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://takming-dormitory.github.io/issue/index.html</loc>
     
     <lastmod>2025-09-08</lastmod>
@@ -245,7 +236,7 @@
   </url>
   
   <url>
-    <loc>https://takming-dormitory.github.io/events/index.html</loc>
+    <loc>https://takming-dormitory.github.io/picture/111/2/index.html</loc>
     
     <lastmod>2025-09-08</lastmod>
     
@@ -282,6 +273,24 @@
   
   <url>
     <loc>https://takming-dormitory.github.io/download/index.html</loc>
+    
+    <lastmod>2025-09-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://takming-dormitory.github.io/events/index.html</loc>
+    
+    <lastmod>2025-09-08</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://takming-dormitory.github.io/post/%E5%A4%96%E7%B1%8D%E7%94%9F%E5%BD%B1%E7%89%87/</loc>
     
     <lastmod>2025-09-08</lastmod>
     
